@@ -31,5 +31,4 @@ struct node * reverseLinkedList(struct node *head) {
 	}
 	head = previous;
 	return head;
-
 }
